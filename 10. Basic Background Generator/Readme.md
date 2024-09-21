@@ -16,7 +16,7 @@
 <ul>
   <li>Download or clone the repository</li>
 <pre><code>
-  git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+  git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 </code></pre>
   
   <li>Go to the directory</li>
