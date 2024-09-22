@@ -1,0 +1,27 @@
+*{
+  margin: 0px;;
+  padding: 0px;
+}
+.width{
+  max-width: 300px;
+  margin-bottom: 20px;
+}
+.box
+{
+  width: 100%;
+  margin: 0px auto;
+  /* display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 15px; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+}
+@media screen and (max-width: 480px) {
+  .width{
+    max-width: 380px;
+    margin-bottom: 20px;
+  }
+  
+}
