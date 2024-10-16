@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /*----------------*/
+  input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    padding-right: 10px;
+    margin: 0;
+}
+
+/* For Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+/*-----------*/
+  body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #d3f1f8;
+  }
+  
+  .vat-calc {
+    background: #10768de8;
+    padding: 3rem 1rem;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px 0 rgba(28, 184, 227, 1);
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding: 1.2rem 0;
+    color: #fff;
+  }
+  
+  .main-wrapper {
+    padding: 1rem;
+    height: 160px;
+    border-radius: 5px;
+  }
+  
+  .button_group {
+    display: flex;
+  }
+  
+  .main-btn {
+    padding: 0.6rem 0;
+    font-size: 1rem;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    width: 120px;
+    color: #212121;
+    background: #fff;
+    margin: auto;
+    margin-top: 36px;
+    transition: all 0.5s ease;
+    cursor: pointer;
+  }
+  
+  .main-btn:hover {
+    background: #252525;
+    color: #fff;
+  }
+  
+  form {
+    line-height: 1.8;
+  }
+  
+  form label {
+    font-weight: bold;
+    padding-right: 0.5rem;
+    color: #ffffff;
+  }
+  
+  form input {
+    font-size: 1em;
+    outline: none;
+    border: none;
+    text-align: right;
+    border-radius: 5px;
+  }
+  form input[disabled] {
+    background-color: rgb(178, 225, 226);
+    border: 1ps solid #ffffff;
+  }
+  
+  form div {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem 0;
+  }
+  
+  #design{
+    width: 100%;
+    color: #000000bf;
+    opacity: 0.8;
+    position: fixed;          
+    bottom: 10px;    
+    left: 50%;            
+    text-align: center;           
+    transform: translateX(-50%);
+    font-size: 17px;        
+    z-index: +1;              
+    pointer-events: none;
+  }
+
+@media (max-width:450px) {
+  body{
+    height: 70vh;
+  }
+  .main-wrapper {
+    height: 250px;
+  }
+}

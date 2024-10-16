@@ -1,0 +1,17 @@
+#ulTasks li.done {
+    color: #6c757d;
+    text-decoration: line-through;
+  }
+  #design{
+    width: 100%;
+    color: #000000bf;
+    opacity: 0.8;
+    position: fixed;          
+    bottom: 0;    
+    left: 50%;            
+    text-align: center;           
+    transform: translateX(-50%);
+    font-size: 17px;        
+    z-index: +1;              
+    pointer-events: none;
+  }

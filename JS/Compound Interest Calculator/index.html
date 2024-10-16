@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compound Interest Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="calculator-container">
+        <h1>Compound Interest Calculator</h1>
+        <form id="interestForm">
+            <label for="principal">Principal</label>
+            <input type="number" id="principal" placeholder="Amount" required>
+
+            <label for="rate">Interest rate (%)</label>
+            <input type="number" id="rate" placeholder="Rate in %" required step="0.01">
+
+            <label for="years">Number of Years</label>
+            <input type="number" id="years" placeholder="Years" required>
+
+            <label for="times">Number of Times in a Single Year</label>
+            <input type="number" id="times" placeholder="Times in Year" required>
+
+            <button type="button" onclick="calculateInterest()">Calculate</button>
+        </form>
+
+        <div class="result">
+            <h3>Result</h3>
+            <p id="result">0</p>
+        </div>
+
+        <footer>designed by © Kumara-swamy</footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

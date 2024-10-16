@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+	background: -webkit-linear-gradient(left, #fff, #a245a2);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.container {
+	margin-top: 10px;
+	width: 90%;
+}
+
+img {
+	position: relative;
+	width: 450px;
+	max-width: 100%;
+	border-radius: 20px;
+	margin-bottom: 10px;
+}
+
+p {
+	margin-bottom: 5px;
+}
+
+h3 {
+	margin: 0;
+}
+
+h5 {
+	margin: 10px 0;
+}
+
+.button-primary {
+	padding: 3px 10px;
+	font-size: 1.1em;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.button-primary:hover {
+	background: #cabfbf;
+}
+
+li {
+	margin-bottom: 0;
+	list-style: none;
+}
+
+.meal-row {
+	margin: 20px 0;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.meal-row {
+	text-align: center;
+}
+
+.video-wrapper {
+	width: 100%;
+	height: 400px;
+	position: relative;
+	padding-top: 25px;
+	margin-bottom: 50px;
+}
+
+.video-wrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translate(-50%);
+	max-width: 650px;
+	width: 100%;
+	height: 100%;
+}
+
+#meal {
+	margin-top: 20px;
+}
+
+@media (max-width: 450px) {
+	.container {
+		height: 80vh;
+	}
+	.video-wrapper {
+		height: 250px;
+	}
+}
+
+/* Updated classes for new structure */
+.meal-image-container {
+	margin-bottom: 10px;
+}
+
+.font-weight{
+	font-weight: 600;
+}
+.meal-category {
+	margin-bottom: 5px;
+}
+
+.meal-area {
+	margin-bottom: 5px;
+}
+
+.meal-tags {
+	margin-bottom: 5px;
+}
+
+.meal-ingredients {
+	margin-top: 10px;
+}
+
+.meal-details-container {
+	margin-top: 20px;
+}
+
+.meal-title {
+	font-size: 1.5em;
+}
+
+.meal-instructions {
+	margin-top: 10px;
+}
+
+.meal-video-row {
+	text-align: center;
+	margin-top: 20px;
+}
