@@ -12,6 +12,12 @@ This basic contact form can be added to any website to make it more interactive 
 - CSS3
 - JavaScript
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
+
 ### Steps to Use:
 
 - Download or clone the repository:

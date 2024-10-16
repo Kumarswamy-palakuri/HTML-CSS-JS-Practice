@@ -1,6 +1,12 @@
 # pepsi-landing-page-responsive
 using HTML, CSS, JS.
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
+
 ```
 git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 ```

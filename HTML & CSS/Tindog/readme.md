@@ -9,6 +9,11 @@ Used by people to find the love for their dogs
 * CSS3
 * BOOTSTRAP
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
 
 #### Steps to Use:
 

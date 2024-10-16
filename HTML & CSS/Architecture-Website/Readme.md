@@ -23,6 +23,12 @@ It is a simple static Architecture Website Template.
 
 <br>
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
+
 ### How to use:
 
 ---
