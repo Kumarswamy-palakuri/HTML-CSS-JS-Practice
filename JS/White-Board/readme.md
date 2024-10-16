@@ -11,6 +11,11 @@ It is a simple digital white board built using HTML, CSS and Javascript. It has 
 6. Image Upload
 7. Download
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
 
 ## Tech Stack Used
 
@@ -25,7 +30,7 @@ It is a simple digital white board built using HTML, CSS and Javascript. It has 
 - Download or clone the repository
 
 ```
-git clone repo-link
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 ```
 
 - Go to the directory

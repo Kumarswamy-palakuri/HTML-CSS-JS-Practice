@@ -14,6 +14,11 @@ Calculates the Value Added Tax (VAT) on products or services
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
 
 ### Steps to Use:
 
@@ -22,7 +27,7 @@ Calculates the Value Added Tax (VAT) on products or services
 - Download or clone the repository
 
 ```
-git clone repo link
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 ```
 
 - Go to the directory

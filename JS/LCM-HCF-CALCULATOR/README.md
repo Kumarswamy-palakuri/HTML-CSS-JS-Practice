@@ -22,6 +22,12 @@
 
  <hr>
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
+
 ### How to get the clone on your local machine:
 
 ---
@@ -29,8 +35,9 @@
 - Download or clone the repository
 
 ```
-git clone repo link
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 ```
+
 
 - Go to the directory
 - open the terminal 

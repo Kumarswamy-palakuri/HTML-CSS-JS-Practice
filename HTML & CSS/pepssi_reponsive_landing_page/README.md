@@ -1,6 +1,10 @@
 # pepsi-landing-page-responsive
 using HTML, CSS, JS.
 
+```
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
+```
+
 Website Link -https://boring-heyrovsky-416a04.netlify.app/
 
 

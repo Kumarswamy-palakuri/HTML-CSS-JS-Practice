@@ -9,6 +9,15 @@ By clicking on the username, it will redirect to user github profile.
 * JavaScript Promises
 * API  
 
+```
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
+```
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
+
 ## API Used
 https://api.github.com/user/user_name
 

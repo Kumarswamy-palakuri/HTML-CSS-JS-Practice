@@ -20,7 +20,7 @@
 - Download or clone the repository
 
 ```
-git clone link
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 ```
 
 - Go to the directory

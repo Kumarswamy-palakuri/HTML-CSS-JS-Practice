@@ -21,7 +21,7 @@
 - Download or clone the repository
 
 ```
-git clone repo link
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 ```
 
 - Go to the directory
@@ -33,6 +33,10 @@ git clone repo link
 
 <h3> ScreenShots </h3> 
 <img width="960" alt="Image-Filter-App" src="https://user-images.githubusercontent.com/64218887/124916416-47955680-e010-11eb-85a4-bab19399bf82.png">
-
 <br>
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)

@@ -6,6 +6,16 @@ A simple Javascript documentation to learn javascript
 - HTML
 - CSS
 
+```
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
+```
+
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
+
 # Instructions
 There's a simple navigation at the left of the website.Click on any link to learn about the topic
 

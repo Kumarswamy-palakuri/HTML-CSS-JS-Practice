@@ -17,7 +17,7 @@
 - Download or clone the repository
 
 ```
-git clone repo
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 ```
 
 - Go to the directory
@@ -31,5 +31,11 @@ git clone repo
 ![screenshot](cal-demo.png)
 
 <br>
+
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
 
 ## Happy Coding!

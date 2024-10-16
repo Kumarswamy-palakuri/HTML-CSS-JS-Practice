@@ -2,13 +2,17 @@
 
 ![Design preview for the Interactive pricing component coding challenge](./design/desktop-preview.jpg)
 
-Made with 💙 by Ahsan Ehtesham
+Made with 💙 by Kumara swamy
+
+```
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
+```
 
 To support me:
 
-[Github](https://github.com/Ahsan-Ehtesham/)
+[Github](https://github.com/Kumarswamy-palakuri)
 
-[Linkedin](https://www.linkedin.com/in/ahsan-ehtesham-a6810018b/)
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
 
 ## Welcome! 👋
 

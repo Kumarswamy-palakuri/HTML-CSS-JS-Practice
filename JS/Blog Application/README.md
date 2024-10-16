@@ -10,6 +10,10 @@ Application uses LocalStorage, the localStorage object stores data with no expir
 * Bootstrap - A CSS Framework
 * JavaScript -> LocalStorage
 
+```
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
+```
+
 ## Use of Project
 
 To understand the concept of the localstorage, how localstorage persist the data, even the tab is closed or user refersh the page.

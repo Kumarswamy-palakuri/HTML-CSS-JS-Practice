@@ -9,10 +9,16 @@ A user-friendly game to enhance user's memory.
 - CSS3
 - JavaScript
 
+To support me:
+
+[Github](https://github.com/Kumarswamy-palakuri)
+
+[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
+
 # Set up required to run
 1. Clone the repository.
 ```
-git clone repo link
+git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
 ```
 2. Move to project directory.
 
