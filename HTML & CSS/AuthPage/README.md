@@ -17,7 +17,7 @@ This basic contact form can be added to any website to make it more interactive 
 - Download or clone the repository:
 
   ```bash
-  git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+  git clone https://github.com/Kumarswamy-palakuri/HTML-CSS-Practice.git
   ```
 
 - Go to the directory
