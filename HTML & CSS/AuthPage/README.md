@@ -12,11 +12,6 @@ This basic contact form can be added to any website to make it more interactive 
 - CSS3
 - JavaScript
 
-To support me:
-
-[Github](https://github.com/Kumarswamy-palakuri)
-
-[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
 
 ### Steps to Use:
 
@@ -40,9 +35,8 @@ To support me:
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xshshahab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshahbuddin82/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xsh_shahab)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kumarswamy-palakuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
 
 Feel free to reach out and connect with me!
 
