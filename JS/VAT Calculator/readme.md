@@ -14,11 +14,12 @@ Calculates the Value Added Tax (VAT) on products or services
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-To support me:
+## Connect with Me
 
-[Github](https://github.com/Kumarswamy-palakuri)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kumarswamy-palakuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
 
-[Linkedin](https://www.linkedin.com/in/kumara-swamy-palakuri-037001208/)
+Feel free to reach out and connect with me!
 
 ### Steps to Use:
 
